@@ -26,16 +26,11 @@ function App() {
       <div className={`main-content ${!loading ? 'fade-in' : ''}`}>
         <div className="container">
           <h1 className="main-title">
-            Uso de IA e big data para prever impactos, planejar ações de conservação e restaurar ecossistemas.
+            Uso de IA e big data para prever impactos ambientais
           </h1>
           
           <p className="main-text">
-            A inteligência artificial é uma aliada importante na busca pelo equilíbrio ecológico. 
-            Com o uso de IA e Big Data, é possível prever impactos ambientais e planejar ações de 
-            conservação e restauração de ecossistemas. Essas tecnologias analisam grandes volumes 
-            de dados para orientar decisões mais sustentáveis, reduzindo danos e preservando recursos 
-            naturais. Assim, a IA se torna uma parceira essencial para proteger o planeta e garantir 
-            um futuro mais equilibrado.
+            A inteligência artificial é uma aliada importante na busca pelo equilíbrio ecológico. Com o uso de IA e Big Data, conseguimos prever impactos ambientais, planejar ações de conservação e restaurar ecossistemas de forma mais eficiente e precisa. Essas tecnologias analisam grandes volumes de dados, identificando padrões e tendências que muitas vezes passam despercebidos, ajudando a tomar decisões mais sustentáveis, reduzir danos e preservar recursos naturais. Além disso, a Inteligência artificial permite antecipar problemas e criar estratégias inovadoras, tornando-se uma parceira essencial para proteger o planeta e garantir um futuro mais equilibrado, consciente e sustentável para todos.
           </p>
         </div>
       </div>
